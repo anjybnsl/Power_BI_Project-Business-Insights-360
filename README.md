@@ -13,17 +13,17 @@ Developing an interactive report providing invaluable insights across finance, s
 
 **Tools Utilized:**
 
--SQL
+- SQL
 
--PowerBi Desktop
+- PowerBi Desktop
 
--Excel
+- Excel
 
--DAX language
+- DAX language
 
--DAX studio (for optimizing the report)
+- DAX studio (for optimizing the report)
 
--Project charter file
+- Project charter file
 
 
 **PowerBI Techniques Used:**

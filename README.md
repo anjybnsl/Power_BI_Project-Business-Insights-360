@@ -50,9 +50,13 @@ Developing an interactive report providing invaluable insights across finance, s
 **Dashboard Views:**
 
 **Finance View:** P&L statement and sales trend insights.
+
 **Sales View:** Growth matrix insights for customer and product (net sales & gross margin).
+
 **Marketing View:** Develop data-driven strategies for market and product (net sales & gross margin).
+
 **Supply Chain View:** Get forecast accuracy for product, segment, category, and customer.
+
 **Executive View:** Early trend insights by revenue, top products/customers by revenue.
 
 

@@ -13,10 +13,15 @@ Developing an interactive report providing invaluable insights across finance, s
 
 **Tools Utilized:**
 -SQL
+
 -PowerBi Desktop
+
 -Excel
+
 -DAX language
+
 -DAX studio (for optimizing the report)
+
 -Project charter file
 
 
@@ -38,13 +43,21 @@ Developing an interactive report providing invaluable insights across finance, s
 
 **Business terms:**
  -Gross price
+ 
  -Pre-invoice deductions
+ 
  - Post-Invoice deductions
+   
  -Net Invoice sale
+ 
  -Gross Margin
+ 
  - Net sales
+   
  - Net profit
+   
  -COGC - Cost of goods sold
+ 
  -Sales channels and its importance
 
 **Dashboard Views:**
@@ -58,6 +71,9 @@ Developing an interactive report providing invaluable insights across finance, s
 **Supply Chain View:** Get forecast accuracy for product, segment, category, and customer.
 
 **Executive View:** Early trend insights by revenue, top products/customers by revenue.
+
+
+
 
 
 

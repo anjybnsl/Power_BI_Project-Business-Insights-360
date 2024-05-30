@@ -12,6 +12,7 @@ Developing an interactive report providing invaluable insights across finance, s
 **Solution:** Implemented Power BI to analyze over 1.5 million records, delivering actionable insights.
 
 **Tools Utilized:**
+
 -SQL
 
 -PowerBi Desktop
@@ -42,23 +43,15 @@ Developing an interactive report providing invaluable insights across finance, s
 
 
 **Business terms:**
- -Gross price
- 
- -Pre-invoice deductions
- 
+ - Gross price
+ - Pre-invoice deductions
  - Post-Invoice deductions
-   
- -Net Invoice sale
- 
- -Gross Margin
- 
+ - Net Invoice sale
+ - Gross Margin
  - Net sales
-   
  - Net profit
-   
- -COGC - Cost of goods sold
- 
- -Sales channels and its importance
+ - COGC - Cost of goods sold
+ - Sales channels and its importance
 
 **Dashboard Views:**
 
@@ -75,8 +68,5 @@ Developing an interactive report providing invaluable insights across finance, s
 
 
 
-
-
-**Appreciation**
 A sincere thank you to Dhaval Patel, Hemanand Vadivel, and the entire Codebasics team for their invaluable contributions to the project.
 

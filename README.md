@@ -4,7 +4,8 @@
 **Power BI Project: Business Insights 360**
 
 
-Checkout my interactive dashboard here: https://app.powerbi.com/view?r=eyJrIjoiMDYzMjU4MzgtNGU2OS00OTU4LTk4YzEtODgzNjUzNmY1N2VmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Checkout my interactive dashboard here: (click on the home button to discover)
+https://app.powerbi.com/view?r=eyJrIjoiMDYzMjU4MzgtNGU2OS00OTU4LTk4YzEtODgzNjUzNmY1N2VmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 **Project Overview:** AtliQ Hardware is a hardware manufacturing company which is selling many types of hardware products to multiple customers in different countries, and regions. As a rapidly growing company, AtliQ Hardware was facing the challenge of efficiently collecting and analyzing data from diverse sources such as SQL databases, Excel sheets, and CSV files.
 These hurdles were potentially impeding their ability to make informed business decisions for sustained expansion and take timely corrective actions. 
